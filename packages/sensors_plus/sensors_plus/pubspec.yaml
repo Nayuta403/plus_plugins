@@ -1,6 +1,6 @@
 name: nayuta_sensors
 description: Flutter plugin for accessing accelerometer and gyroscope sensors.
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/Nayuta403/plus_plugins
 repository: https://github.com/fluttercommunity/plus_plugins/tree/main/packages/
 
